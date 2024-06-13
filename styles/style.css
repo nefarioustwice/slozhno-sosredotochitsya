@@ -283,6 +283,8 @@
   :root {
     --nav-margin: 0;
     --header-text-margin: 114px;
+    --block-padding: 60px;
+    --main-gap: 80px
   }
 
 
