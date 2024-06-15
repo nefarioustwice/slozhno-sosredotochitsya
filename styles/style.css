@@ -7,7 +7,7 @@
   line-height: var(--line-height);
   font-size: var(--font-size);
   background-color: var(--bg-color);
-  background-image: url(./images/cover-image-light.png);
+  background-image: url(../images/cover-image-light.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

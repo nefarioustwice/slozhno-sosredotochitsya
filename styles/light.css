@@ -17,7 +17,7 @@
   --hover-border-color: rgba(50, 49, 45, 0.4);
   --main-title: #353430;
   --secondary-title: #353430;
-  background-image: url(./images/cover-image-light.png);
+  background-image: url(../images/cover-image-light.png);
   .header__rec {
     display: none;
   }

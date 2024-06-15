@@ -17,7 +17,7 @@
   --hover-border-color: rgba(255, 0, 112, 0.4);
   --main-title: #ff0070;
   --secondary-title: #000028;
-  background-image: url(./images/cover-image-dark.png);
+  background-image: url(../images/cover-image-dark.png);
   .header__rec {
     display: flex;
   }
@@ -35,7 +35,7 @@
     --secondary-title: #000028;
   }
   .page {
-    background-image: url(./images/cover-image-dark.png);
+    background-image: url(../images/cover-image-dark.png);
   }
   .header__rec {
     display: flex;
